@@ -1,4 +1,5 @@
-module Example
+module PatentsLensMongoDB
+ 
 export hello, domath
 
 """
