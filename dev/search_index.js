@@ -1,3 +1,3 @@
 var documenterSearchIndex = {"docs":
-[{"location":"#PatentsLensMongoDB","page":"PatentsLensMongoDB","title":"PatentsLensMongoDB","text":"","category":"section"},{"location":"","page":"PatentsLensMongoDB","title":"PatentsLensMongoDB","text":"Modules = [Example]","category":"page"}]
+[{"location":"#PatentsLensMongoDB","page":"PatentsLensMongoDB","title":"PatentsLensMongoDB","text":"","category":"section"},{"location":"","page":"PatentsLensMongoDB","title":"PatentsLensMongoDB","text":"Modules = [PatentsLensMongoDB]","category":"page"},{"location":"#PatentsLensMongoDB.domath-Tuple{Number}","page":"PatentsLensMongoDB","title":"PatentsLensMongoDB.domath","text":"domath(x::Number)\n\nReturn x + 5.\n\n\n\n\n\n","category":"method"},{"location":"#PatentsLensMongoDB.hello-Tuple{String}","page":"PatentsLensMongoDB","title":"PatentsLensMongoDB.hello","text":"hello(who::String)\n\nReturn \"Hello, who\".\n\n\n\n\n\n","category":"method"}]
 }
