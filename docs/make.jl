@@ -1,5 +1,5 @@
-using Documenter, Example
+using Documenter, PatentsLensMongoDB
 
-makedocs(modules = [Example], sitename = "Example.jl")
+makedocs(modules = [PatentsLensMongoDB], sitename = "PatentsLensMongoDB.jl")
 
-deploydocs(repo = "github.com/quinnj/Example.jl.git", push_preview = true)
+deploydocs(repo = "https://github.com/jfb-h/PatentsLensMongoDB.jl", push_preview = true)
