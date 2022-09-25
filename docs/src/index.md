@@ -2,5 +2,5 @@
 
 
 ```@autodocs
-Modules = [Example]
+Modules = [PatentsLensMongoDB]
 ```
